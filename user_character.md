@@ -1,0 +1,1 @@
+1,"motherId":25,"makeupColorType":0,"firstHairColor":0,"jawHeight":1,"chinLength":0,"chinPosition":0,"jawWidth":0,"ageingOpacity":1,"cheekboneWidth":0,"hairModel":142,"shapeMix":0.45,"makeupModel":65}
